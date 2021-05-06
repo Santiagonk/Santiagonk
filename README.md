@@ -1,9 +1,5 @@
-### Hi there 👋
+## Hi I'm Santiago
 
-
-**Santiagonk/Santiagonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python and R
 - 🌱 I’m currently learning Django, NodeJs
