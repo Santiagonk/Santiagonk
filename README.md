@@ -32,7 +32,7 @@
 
 ---
 
-[linkedin]: linkedin.com/in/santiago-salgado-08a09759
+[linkedin]: https://www.linkedin.com/in/santiago-salgado-08a09759
 [gmail]: mailto:jssalgadog@gmail.com
 [twitter]: https://twitter.com/jssalgadog
 
