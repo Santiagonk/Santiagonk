@@ -50,11 +50,11 @@
 <h3>GitHub Stats</h3>
 <div align="center">
 <a href="https://github.com/Santiagonk>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmexdev&theme=dracula&count_private=true&hide=css,blade" alt="jcmexdev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagonk&theme=dracula&count_private=true&hide=css,blade" alt="Santiagonk's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Santiagonk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcmexdev&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="jcmexdev's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Santiagonk&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="Santiagonk's GitHub Stats"/>
 </a>
 </div>
 
