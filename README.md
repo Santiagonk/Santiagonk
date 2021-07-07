@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/4bBDQM2.png" width="1000" height="500"/>
 
 <p align='center'>
-  <a href="www.linkedin.com/in/santiago-salgadonk/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/santiago-salgadonk?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfsCAAmt8TkKvpt0kDbaf5Q%3D%3D" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/jssalgadog" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://platzi.com/p/javiersantiagosalgado/" target="_blank"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
