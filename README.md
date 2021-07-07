@@ -1,13 +1,18 @@
-<img src="https://i.imgur.com/xKu0Pvx.jpg" width="1000" height="500"/>
+<img src="https://i.imgur.com/4bBDQM2.png" width="1000" height="500"/>
 
 <p align='center'>
-  <a href="www.linkedin.com/in/santiago-salgadonk"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/jssalgadog"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://platzi.com/p/javiersantiagosalgado/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/santiago-salgadonk" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/jssalgadog" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://platzi.com/p/javiersantiagosalgado/" target="_blank"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### Hi there, I'm Santiago 👋
+### Contact Info
 
+Email: jssalgadog@gmail.com
+
+Web Site: [www.santiagosalgadog.com](https://www.santiagosalgadog.com/)
+
+---
 
 ## I'm Data Scientist, Science Lover and Kaizen student:
 -  Platzi Master Student.
@@ -60,12 +65,17 @@ Docker
 Postgress
 SQL Server
 
+---
+
 ### Languages
 
 <p align="left"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-spain_1f1ea-1f1f8.png" alt="Spanish" width="40" height="40"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" alt="English" width="40" height="40"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-germany_1f1e9-1f1ea.png" alt="German" width="40" height="40"/>
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-china_1f1e8-1f1f3.png" alt="Chinese" width="40" height="40"/>
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-france_1f1eb-1f1f7.png" alt="French" width="40" height="40"/>
 
+---
+  
+  
 <h3>GitHub Stats</h3>
 <div align="center">
 <a href="https://github.com/Santiagonk>
@@ -77,8 +87,5 @@ SQL Server
 </a>
 </div>
 
-### Contact Info
-
-Email: jssalgadog@gmail.com
 
 ⭐️ From [SantiagoNK](https://github.com/Santiagonk/)
