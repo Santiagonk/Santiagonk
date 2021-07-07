@@ -27,6 +27,21 @@
 
 <h3>👨‍💻 Stack & Skills</h3>
 
+Python
+Django
+Flask
+TensorFlow
+Keras
+PyTorch
+Scrapy
+
+R
+Shiny
+
+Tableau
+PowerBI
+GoogleDataStudio
+
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
 
@@ -37,9 +52,13 @@
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
 
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
+AWS
+Docker
 
 ![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff)
+Postgress
+SQL Server
 
 ### Languages
 
