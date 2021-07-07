@@ -29,25 +29,28 @@ Web Site: [www.santiagosalgadog.com](https://www.santiagosalgadog.com/)
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-292e33?style=flat-square&logo=Visual-studio-code&logoColor=fff)
 ![Bash](https://img.shields.io/badge/_-Bash-292e33?style=flat-square&logo=gnu-bash&logoColor=fff)
 ![Google Chrome](https://img.shields.io/badge/_-GoogleChrome-292e33?style=flat-square&logo=Google-Chrome&logoColor=fff)
+![RStudio](https://img.shields.io/badge/_-RStudio-292e33?style=flat-square&logo=rstudio&logoColor=fff)
 
 ---
 
 <h3>👨‍💻 Stack & Skills</h3>
 
-Python
-Django
-Flask
-TensorFlow
-Keras
-PyTorch
-Scrapy
+![Python](https://img.shields.io/badge/_-Python-292e33?style=flat-square&logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/_-Django-292e33?style=flat-square&logo=django&logoColor=fff)
+![Flask](https://img.shields.io/badge/_-Flask-292e33?style=flat-square&logo=flask&logoColor=fff)
+![Scrapy](https://img.shields.io/badge/_-Scrapy-292e33?style=flat-square&logo=python&logoColor=fff)
+![TensorFlow](https://img.shields.io/badge/_-Tensorflow-292e33?style=flat-square&logo=tensorflow&logoColor=fff)
+![SciKitLearn](https://img.shields.io/badge/_-ScikitLearn-292e33?style=flat-square&logo=scikitlearn&logoColor=fff)
+![Pytorch](https://img.shields.io/badge/_-Pytorch-292e33?style=flat-square&logo=pytorch&logoColor=fff)
+![Keras](https://img.shields.io/badge/_-Keras-292e33?style=flat-square&logo=keras&logoColor=fff)
+![NLTK](https://img.shields.io/badge/_-NLTK-292e33?style=flat-square&logo=python&logoColor=fff)
 
-R
-Shiny
+![R](https://img.shields.io/badge/_-R-292e33?style=flat-square&logo=r&logoColor=fff)
+![Shiny](https://img.shields.io/badge/_-Shiny-292e33?style=flat-square&logo=rstudio&logoColor=fff)
 
-Tableau
-PowerBI
-GoogleDataStudio
+![Tableau](https://img.shields.io/badge/_-Tableau-292e33?style=flat-square&logo=tableau&logoColor=fff)
+![PowerBI](https://img.shields.io/badge/_-PowerBI-292e33?style=flat-square&logo=powerbi&logoColor=fff)
+![GoogleDataStudio](https://img.shields.io/badge/_-GoogleDataStudio-292e33?style=flat-square&logo=google&logoColor=fff)
 
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
@@ -59,13 +62,13 @@ GoogleDataStudio
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
 
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
-AWS
-Docker
+![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
+![Docker](https://img.shields.io/badge/_-Docker-292e33?style=flat-square&logo=docker&logoColor=fff)
 
 ![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff)
-Postgress
-SQL Server
+![Postgress](https://img.shields.io/badge/_-PostgreSQL-292e33?style=flat-square&logo=postgresql&logoColor=fff)
+![SQL Server](https://img.shields.io/badge/_-SQLServer-292e33?style=flat-square)
 
 ---
 
@@ -80,13 +83,12 @@ SQL Server
   
 <h3>GitHub Stats</h3>
 <div align="center">
-<a href="https://github.com/Santiagonk>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagonk&theme=dracula&count_private=true&hide=css,blade" alt="Santiagonk's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Santiagonk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Santiagonk&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="Santiagonk's GitHub Stats"/>
-</a>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagonk&show_icons=true&theme=dracula" />
+</a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Santiagonk&show_icons=true&show_icons=true&theme=dracula" />
+</a></p>
 </div>
 
 
