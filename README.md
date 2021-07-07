@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/u8yY23d.png" width="1000" height="500"/>
+<img src="https://i.imgur.com/xKu0Pvx.jpg" width="1000" height="500"/>
 
 <p align='center'>
   <a href="www.linkedin.com/in/santiago-salgadonk"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
