@@ -10,6 +10,13 @@
   <a href="https://platzi.com/p/javiersantiagosalgado/" target="_blank"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>
 </p>
 
+## A little bit about me... 
+
+I'm a Data Scientist & Machine Learning Engineer.
+I love Maths and Physics. 
+I am currently studying at Platzi Master
+
+
 ### Contact Info
 
 Email: jssalgadog@gmail.com
