@@ -14,7 +14,7 @@
 
 I'm a Data Scientist & Machine Learning Engineer, who likes some to works with data and models. I really love the Maths and Physics, and apply the statistics and maths models to solve real live projects. 
 
-Also, I work with (Elocuentes Internacional)[http://elocuentes.com/co/curso/curso-oratoria-col/] like assistant teacher public speech and negotiation.
+Also, I work with [Elocuentes Internacional](http://elocuentes.com/co/curso/curso-oratoria-col/) like assistant teacher speech and negotiation.
 
 I am currently studying at Platzi Master
 
@@ -22,16 +22,17 @@ Don't hesitate in reaching me via:
 
 Email: jssalgadog@gmail.com
 
-Linkedin: [linkedin.com/in/santiago-salgadonk](https://www.linkedin.com/in/santiago-salgadonk?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfsCAAmt8TkKvpt0kDbaf5Q%3D%3D)
+Linkedin: [linkedin](https://www.linkedin.com/in/santiago-salgadonk?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfsCAAmt8TkKvpt0kDbaf5Q%3D%3D)
 
 Web Site: [www.santiagosalgadog.com](https://www.santiagosalgadog.com/)
 
 ---
 
-## I'm Data Scientist, Science Lover and Kaizen student:
--  Platzi Master Student.
--  DataScience 
--  Backend Developer with Python.
+### Projects
+
+* [Science News Scrapy](https://github.com/Santiagonk/Science_News_Scrapy): Scraping a News Science Sites with Scrapin
+* [Maybeline Cosmetics](https://github.com/Santiagonk/Maybeline_Cosmetics): API with NodeJS
+* [Purojekuto Projects Managament](https://github.com/Purojekuto-Capstone/purojekuto-backend): And API and soon an break times recommendation system
 
 ---
 
