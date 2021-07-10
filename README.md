@@ -30,7 +30,7 @@ Web Site: [www.santiagosalgadog.com](https://www.santiagosalgadog.com/)
 
 ### Projects
 
-* [Science News Scrapy](https://github.com/Santiagonk/Science_News_Scrapy): Scraping a News Science Sites with Scrapin
+* [Science News Scrapy](https://github.com/Santiagonk/Science_News_Scrapy): Scraping a News Science Sites with Scrapy
 * [Maybeline Cosmetics](https://github.com/Santiagonk/Maybeline_Cosmetics): API with NodeJS
 * [Purojekuto Projects Managament](https://github.com/Purojekuto-Capstone/purojekuto-backend): And API and soon an break times recommendation system
 
