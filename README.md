@@ -12,14 +12,17 @@
 
 ## A little bit about me... 
 
-I'm a Data Scientist & Machine Learning Engineer.
-I love Maths and Physics. 
+I'm a Data Scientist & Machine Learning Engineer, who likes some to works with data and models. I really love the Maths and Physics, and apply the statistics and maths models to solve real live projects. 
+
+Also, I work with (Elocuentes Internacional)[http://elocuentes.com/co/curso/curso-oratoria-col/] like assistant teacher public speech and negotiation.
+
 I am currently studying at Platzi Master
 
-
-### Contact Info
+Don't hesitate in reaching me via:
 
 Email: jssalgadog@gmail.com
+
+Linkedin: [linkedin.com/in/santiago-salgadonk](https://www.linkedin.com/in/santiago-salgadonk?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfsCAAmt8TkKvpt0kDbaf5Q%3D%3D)
 
 Web Site: [www.santiagosalgadog.com](https://www.santiagosalgadog.com/)
 
@@ -83,9 +86,8 @@ Web Site: [www.santiagosalgadog.com](https://www.santiagosalgadog.com/)
 
 ### Languages
 
-<p align="left"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-spain_1f1ea-1f1f8.png" alt="Spanish" width="40" height="40"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" alt="English" width="40" height="40"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-germany_1f1e9-1f1ea.png" alt="German" width="40" height="40"/>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-china_1f1e8-1f1f3.png" alt="Chinese" width="40" height="40"/>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-france_1f1eb-1f1f7.png" alt="French" width="40" height="40"/>
+<p align="left"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-spain_1f1ea-1f1f8.png" alt="Spanish" width="40" height="40"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" alt="English" width="40" height="40"/>
+</p>
 
 ---
   
